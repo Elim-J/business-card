@@ -1,0 +1,12 @@
+.footer {
+    background-color: #161619;
+    width: 320px;
+    margin: 0 auto;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.icons {
+    display: flex;
+    padding: 20px 10px;
+}
